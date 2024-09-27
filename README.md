@@ -1,5 +1,6 @@
-## Football Legends
+## movie stars
+### https://movie-stars-oncu.netlify.app/
 
-#### React Bootstrap
+![movie-stars-app](https://github.com/user-attachments/assets/e89566db-d0f9-4410-bcd6-b006e440cf2c)
 
-- https://medium.com/@anthonyharold67/react-bootstrap-react-i%CC%87le-g%C3%BC%C3%A7lendirilmi%C5%9F-bootstrap-a54dc5394145
+
